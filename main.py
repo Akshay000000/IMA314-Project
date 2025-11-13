@@ -1,7 +1,7 @@
 # Driver Code for the Optimization Algorithms
 
 # Author:
-#  B>Akshay Sriram (2023BCD0015)
+#  B.Akshay Sriram (2023BCD0015)
 
 import numpy as np
 
