@@ -75,7 +75,7 @@ sampleFunc.plot()
 
 Output : 
 
-![image](./src/Figure_1.png)
+![image](Src/Figure_1.png)
 
 Command : 
 ```python
@@ -115,7 +115,7 @@ Output :
 Optimize x : [2.80677703e-05 3.93062445e-05]
 ```
 
-![image](./src/Figure_2.png)
+![image](Src/Figure_2.png)
 
 ## Contributing
 
