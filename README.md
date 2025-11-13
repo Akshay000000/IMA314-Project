@@ -48,8 +48,8 @@ The repository contains several utility files organized in the `./algorithms/` d
 To get started with the course materials and exercises, clone this repository:
 
 ```bash
-git clone https://github.com/Harshtherocking/Optimization-IMA-314/tree/main
-cd Optimization-IMA-314/
+[git clone https://github.com/Akshay000000/IMA314-Project.git]
+cd IMA314-Project/
 
 python3 -m venv virtualenv
 
