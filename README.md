@@ -121,9 +121,3 @@ Optimize x : [2.80677703e-05 3.93062445e-05]
 
 Feel free to contribute by submitting issues or pull requests. We welcome any improvements, suggestions, or additional resources!
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-***In mathematics the art of proposing a question must be held of higher value than solving it.***
