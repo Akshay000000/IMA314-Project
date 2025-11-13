@@ -1,8 +1,7 @@
 # Driver Code for the Optimization Algorithms
 
-# Authors:
-#   Ankur Majumdar (2022BCD0046)
-#   Harsh Vardhan Singh Chauhan (2022BCD0044)
+# Author:
+#  B>Akshay Sriram (2023BCD0015)
 
 import numpy as np
 
