@@ -10,8 +10,7 @@ setup(
     long_description_content_type="text/markdown",
     package_dir={"": "./algorithms"},
     packages=find_packages(where="./algorithms"),
-    url="https://github.com/Harshtherocking/Optimization-IMA-314/",
-    author="Harsh & Ankur",
-    author_email="harsh.thunder.happy@gmail.com",
-    license="MIT",
+    url="https://github.com/Akshay000000/IMA314-Project.git",
+    author="Akshay Sriram",
+    author_email="akshaysriram.b@gmail.com",
 )
